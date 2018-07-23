@@ -2,7 +2,7 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-import { css } from 'styled-components';
+import { css } from 'vue-styled-components';
 
 const styledIf = (method, condition) => (...names) => (...args) => props =>
   names[method](name => Boolean(props[name]) === condition) && css(...args);
