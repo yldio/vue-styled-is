@@ -1,16 +1,16 @@
-# styled-is
+# vue-styled-is
 
-[![npm](https://img.shields.io/npm/v/styled-is.svg?style=flat-square)](https://www.npmjs.com/package/styled-is)
+[![npm](https://img.shields.io/npm/v/vue-styled-is.svg?style=flat-square)](https://www.npmjs.com/package/vue-styled-is)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg?style=flat-square)](https://opensource.org/licenses/MPL-2.0)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![Greenkeeper badge](https://img.shields.io/badge/greenkeeper-enabled-brightgreen.svg?style=flat-square)](https://greenkeeper.io/)
 
-[![David](https://img.shields.io/david/dev/yldio/styled-is.svg?style=flat-square)](https://david-dm.org/yldio/styled-is?type=dev)
-[![David](https://img.shields.io/david/peer/yldio/styled-is.svg?style=flat-square)](https://david-dm.org/yldio/styled-is?type=peer)
+[![David](https://img.shields.io/david/dev/yldio/vue-styled-is.svg?style=flat-square)](https://david-dm.org/yldio/vue-styled-is?type=dev)
+[![David](https://img.shields.io/david/peer/yldio/vue-styled-is.svg?style=flat-square)](https://david-dm.org/yldio/vue-styled-is?type=peer)
 
 Flag utility for [`styled-components`](https://github.com/styled-components/styled-components).
 
-[React Version](https://github.com/yldio/styled-is)
+[React Version](https://github.com/yldio/vue-styled-is)
 
 ## Table of Contents
 
