@@ -10,6 +10,8 @@
 
 Flag utility for [`styled-components`](https://github.com/styled-components/styled-components).
 
+[React Version](https://github.com/yldio/styled-is)
+
 ## Table of Contents
 
 - [Install](#install)
@@ -31,7 +33,7 @@ import styled from 'styled-components';
 const Div = styled.div`
   display: block;
   opacity: 0;
-  
+
   ${is('red')`
     background-color: red;
   `};
